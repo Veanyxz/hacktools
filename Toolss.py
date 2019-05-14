@@ -11,9 +11,8 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By Veanyxz
+Created By AnonHacker
 
-Facebook: facebook.com/vean
 Ver: 2.0
 ----
 ONLY FOR TERMUX!
